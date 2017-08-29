@@ -1,0 +1,12 @@
+root = trueindent_preproces
+
+[*]
+insert_final_newline = true
+end_of_line = crlf
+
+# C++
+[*.{c,cpp,h,hpp}]
+indent_style = tab
+indent_size = 4
+charset = utf-8-bom
+trim_trailing_whitespace = true
